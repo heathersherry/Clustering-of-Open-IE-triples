@@ -1,0 +1,267 @@
+newspaper
+magazine
+headline
+lead
+news story
+newspaper article
+article
+sidebar
+publishing
+paper
+editorial
+publication
+daily
+journal
+weekly
+reporter
+herald
+bulletin
+blog
+publish
+byline
+information
+personal
+lede
+press
+newspapers
+fast-breaking
+shirttail
+lead-in
+interview
+report
+published
+times
+page
+cited
+according
+commentary
+news
+tabloid
+newswire
+obituary
+columnist
+courant
+tribune
+sensationalist
+presse
+gazette
+journalist
+dateline
+newsletter
+syndication
+newsroom
+feuilleton
+journalism
+diary
+obit
+correspondent
+broadsheet
+nouvelles
+newsmagazine
+reportage
+photojournalism
+newspaperman
+advertisement
+telegram
+online
+inquirer
+classified
+prensa
+gossip
+citing
+media
+post
+quoted
+reported
+reports
+official
+quoting
+describing
+reporting
+saying
+letter
+articles
+editor
+issue
+referring
+reference
+newsweek
+comment
+read
+statement
+note
+editors
+review
+comments
+wrote
+agency
+stated
+website
+calls
+today
+call
+book
+issued
+broadcast
+stating
+papers
+cnn
+noted
+calling
+explaining
+publications
+questions
+television
+opinion
+mail
+message
+noting
+suggested
+service
+address
+memo
+shows
+latest
+commenting
+on
+commented
+written work
+reviewed
+cox
+sources
+column
+source
+story
+stories
+issues
+written
+mentioned
+earlier
+regarding
+tv
+this
+statements
+attention
+mercurism
+mumblenews
+advertorial
+newsy
+headlinese
+diarize
+coherald
+miscellanist
+magazining
+republicate
+periodicalist
+countinghouse
+corespondent
+magazinist
+subeditor
+editorialist
+microreader
+correspondently
+newsmaker
+electronic media
+lead story
+opening line
+sentence
+gutter press
+press release
+sob sister
+magazine article
+yellow journalism
+paper round
+press corps
+pulp magazine
+trade magazine
+center spread
+press agent
+new journalism
+press agency
+commonplace book
+new york
+search engine
+portal site
+new york state
+rag day
+back number
+week by week
+world series
+push down
+new york city
+space writer
+telephone directory
+liberty island
+scratch sheet
+stock ticker
+television program
+five ws
+copy editing
+anecdote
+inverted pyramid
+startle
+generalization
+lead paragraph
+question
+quotation
+description
+narrative hook
+show, don't tell
+festival
+occurrence
+case
+miracle
+occurrent
+circumstance
+materialization
+phenomenon
+reverberation
+social event
+tournament
+venue
+championships
+organizers
+marathon
+race
+contest
+competitions
+weekend
+inaugural
+concert
+annual
+gala
+fiesta
+jamboree
+celebration
+fete
+bash
+shindig
+soiree
+beano
+commemoration
+result
+issue
+effect
+consequence
+upshot
+outcome
+process
+spillover
+zap
+fall
+makeup
+impact
+migration
+happening
+harvest
+relativity
+deed
+act
+dent
+branch
+change
+byproduct
+outgrowth
+offset
+wake
+fallout

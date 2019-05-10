@@ -1,0 +1,473 @@
+animal
+dog
+cat
+bird
+puppy
+favorite
+favourite
+darling
+favored
+rottweiler
+loved
+fondle
+caress
+rabbit
+eat
+preferred
+dearie
+deary
+ducky
+rodent
+turtle
+positron emission tomography
+goldfish
+livestock
+kennel
+greyhound
+hamster
+beagle
+spaniel
+poodle
+corgi
+foxhound
+doggie
+pomeranian
+elephant
+dachshund
+collie
+pup
+schipperke
+schnauzer
+yorkie
+animal-assisted therapy
+miniature pinscher
+fox terrier
+golden retriever
+irish setter
+shetland sheepdog
+basset hound
+shih tzu
+lhasa apso
+labrador retriever
+cocker spaniel
+airedale terrier
+french bulldog
+great dane
+guinea pig
+rat
+monkey
+mouse
+kitten
+veterinarian
+pug
+domestication
+preferent
+best-loved
+labour
+peevishness
+irritability
+neck
+chosen
+choler
+lover
+fauna
+gentle
+creature
+petulance
+beast
+fretfulness
+tomography
+imaging
+brute
+purebred
+ferret
+fido
+gerbil
+rex
+chinchilla
+deerhound
+canis
+griffon
+sheepdog
+doggedly
+doggedness
+whippet
+dogger
+lurcher
+doggy
+retriever
+cur
+pertinaciously
+akita
+doghouse
+flea
+dingo
+bloodhound
+macushla
+fussiness
+mollycoddle
+canoodle
+crossness
+canine
+dogcart
+spitz
+antidog
+pulegone
+pets
+hemangiosarcoma
+parakeet
+parrot
+multidog
+cefovecin
+furkid
+ratter
+fish
+lizard
+baby
+dognap
+snake
+demiwolf
+harehound
+dogling
+dognapping
+dogsitter
+trundletail
+dogdom
+aquarium
+coonhound
+dogophile
+crocotta
+robodog
+dhole
+dogbane
+lapdog
+basenji
+dogberryism
+doglore
+cyno
+dogless
+coondog
+canid
+granddog
+corndog
+lucern
+rottie
+briard
+sleuthhound
+elkhound
+doggishly
+adamance
+coydog
+seadog
+doggily
+doghood
+doggishness
+dogs
+doggish
+labradoodle
+saluki
+dogly
+poochie
+spurdog
+staghound
+pig
+doglike
+otterhound
+bandog
+dogcatcher
+yorkipoo
+coachdog
+leamer
+toys
+weredog
+cow
+cats
+drever
+cynophilia
+utonagan
+samoyed
+cynanthropy
+frog
+eating
+working animal
+bug
+toy
+babies
+animals
+arthropod
+sport animal
+candy
+pigs
+tarantula
+treats
+food
+cloned
+laboratory animal
+rats
+droppings
+keep in cage
+feed
+cows
+whale
+newborn
+stuffed
+civet
+puppies
+feeding
+dander
+pill
+bait
+goat
+mad
+poison
+panda
+shark
+kit
+bites
+infected
+packs
+keep as pet
+bugs
+pills
+meat
+octopus
+fake
+bite
+habits
+registry
+horse
+sheep
+cure
+chickens
+cute
+drink
+smoking
+clone
+repellent
+vendor
+dolphin
+like
+condoms
+diet
+fanciers
+mice
+eats
+products
+diaper
+duck
+kids
+dairy
+prescription
+packages
+doll
+ate
+medicines
+milk
+kits
+insect
+mosquito
+snack
+toothpaste
+cattle
+make out
+teacher's pet
+animate being
+house rabbit
+mexican hairless
+pooper scooper
+bush dog
+dog fur
+be pet
+peeve
+domestic pet
+pet dog
+old english sheepdog
+one animal
+peeves
+ride in car
+jack russell terrier
+puppy dog
+fight dog
+rhodesian ridgeback
+wildlife
+sematary
+popular pet
+animal kingdom
+chew bone
+ox
+veggie dog
+non-human
+doberman pinscher
+guard house
+play fetch
+fancy rat
+play with frisbee
+chase cat
+toy dog
+great pyrenees
+swing dog
+rescue dog
+dog house
+chow chow
+siberian husky
+guide blind person
+pig dog
+pariah dog
+eat bone
+german shepherd
+condominium
+covert hound
+cuddly
+man's best friend
+spiny dogfish
+springer spaniel
+foo dog
+dog latin
+assistance dog
+saint bernard
+shiba inu
+pit bull terrier
+cadaver dog
+welsh corgi
+afghan hound
+sound loud
+catch frisbee
+bull terrier
+pet animal
+hungarian hound
+groomer
+lease
+hunt dog
+hunt fox
+wear sweater
+mix breed dog
+doggy paddle
+dog shit
+puppy dog eye
+sled dog
+curtail dog
+dog's letter
+irish wolfhound
+wire fox terrier
+yorkshire terrier
+foo lion
+donkey
+work dog
+go to dog
+raccoon dog
+dog eat dog
+sausage dog
+rough collie
+scottish terrier
+domestic canary
+dobermann pinscher
+domestic animal
+dog run
+property
+ownership
+personhood
+falcon
+breeder
+pooch
+felines
+canines
+chihuahua
+vet
+mutt
+dalmatian
+basset
+labrador
+veterinary
+terrier
+paws
+reptile
+ferrets
+pigeon
+tropical fish
+divorce
+human
+estate
+north america
+inheritance
+hermit crab
+animal rights
+rodents
+children
+western world
+kitties
+cockapoo
+sheltie
+puggle
+litterbox
+desex
+heartworm
+cockatiel
+cavy
+chinchillas
+sharpei
+bullmastiff
+havanese
+spca
+kibble
+housecats
+littermate
+pekinese
+moggie
+cattery
+malamute
+spaying
+tabbies
+breed-specific legislation
+pit bull
+chocolate
+exotic pet
+canid hybrid
+felid hybrid
+begonia
+hamsters
+domesticated
+industrialisation
+animal welfare
+obesity
+houseplant
+animal protectionism
+philodendrons
+political correctness
+poinsettias
+pet sitter
+boston terrier
+brittany spaniel
+humane society
+miniature schnauzer
+puppy chow
+miniature poodle
+border collie
+english springer spaniel
+alaskan malamute
+canis familiaris
+cairn terrier
+pet sitting
+border terrier
+calico cat
+pet adoption
+legal custody
+personal injury
+property damage
+university of bristol
+society for the prevention of cruelty to animals
+animal shelter
+pet store
+lilium longiflorum
+aloe vera
+édouard manet
+syrian hamster
+pet ownership among the homeless
+pet rock
+chia pet
+jean-honoré fragonard
+guide dog
+sir henry raeburn
+james tissot
+william f. cody
+dwarf hamster
+therapy dog
